@@ -18,8 +18,8 @@ This repository serves as a personal collection of data analytics projects, tool
 
 Explore the personal data analytics projects available in this repository:
 
-- [Project 1](./project-1): A personal project aimed at gaining insights into [specific subject or dataset].
-- [Project 2](./project-2): My exploration of [another area of interest] through data analysis.
+- [Project 1](./project-1): A personal project aimed at gaining insights into Data Analytics.
+- [Project 2](./project-2): My exploration of AI through data analysis.
 - [Project 3](./project-3): An educational project that showcases my progress in data visualization techniques.
 
 Each project directory contains detailed documentation, code samples, and datasets related to my learning and research.
